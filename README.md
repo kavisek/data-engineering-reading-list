@@ -42,8 +42,8 @@ This is not a comprehensive list but a curated list. A good starting point.
 
 #### Terraform
 
-- 
--
+- [Using Terraform to Manage Applications](https://acloudguru.com/course/using-terraform-to-manage-applications-and-infrastructure)
+- [HashiCorp Certified Terraform Associate](https://acloudguru.com/course/hashicorp-certified-terraform-associate)
 -
 - 
 
