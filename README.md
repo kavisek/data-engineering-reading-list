@@ -33,8 +33,18 @@ This is not a comprehensive list but a curated list. A good starting point.
 - [A Cloud Guru](https://acloudguru.com)
 - [O'Reily](https://www.oreilly.com)
 
+### Books
 
-### Subjects
+- [Linux Command Line Bible](https://www.amazon.ca/Linux-Command-Shell-Scripting-Bible/dp/111898384X/ref=sr_1_1?crid=217TQR8RN83ZU&dchild=1&keywords=linux+command+line+and+shell+scripting+bible&qid=1633310364&sprefix=Linux+command+line%2Caps%2C209&sr=8-1)
+- [Designing Data Intensive Applications](https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?dchild=1&keywords=designing+data+intensive+applications&qid=1633310515&sr=8-1)
+- [Advanced Analytics wtih Spark](https://www.amazon.ca/Advanced-Analytics-Spark-Patterns-Learning/dp/1491912766/ref=sr_1_1?dchild=1&keywords=Advanced+Analytics+with+Spark&qid=1633310529&sr=8-1)
+- [PostgresSQL: Up and Running](https://www.amazon.ca/PostgreSQL-Running-Practical-Advanced-Database/dp/1491963417/ref=sr_1_1?dchild=1&keywords=postgresql&qid=1633310549&sr=8-1)
+- [Postgres : For Starters]
+- [Practical Tableau: 100 Tips, Tutorials, and Strategies from a Tableau Zen Maste](https://www.amazon.ca/gp/product/1491977310/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+- [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.ca/gp/product/1491946008/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [All of Statistics: A Concise Course in Statistical Inference](https://www.amazon.ca/gp/product/0387402721/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+- [Effective Python](https://www.amazon.ca/Effective-Python-Specific-Write-Better/dp/0134034287/ref=sr_1_2?dchild=1&keywords=effective+python&qid=1633310890&sr=8-2)
+### Other Resources
 
 
 #### Airflow
@@ -44,11 +54,6 @@ This is not a comprehensive list but a curated list. A good starting point.
 
 - [Databricks Youtube Channel](https://www.youtube.com/c/Databricks)
 
-#### Terraform
-
-- [Using Terraform to Manage Applications](https://acloudguru.com/course/using-terraform-to-manage-applications-and-infrastructure)
-- [HashiCorp Certified Terraform Associate](https://acloudguru.com/course/hashicorp-certified-terraform-associate)
-
 
 #### Docker
 
@@ -56,6 +61,18 @@ This is not a comprehensive list but a curated list. A good starting point.
 - 
 -
 -
+
+#### Terraform
+
+- [Using Terraform to Manage Applications](https://acloudguru.com/course/using-terraform-to-manage-applications-and-infrastructure)
+- [HashiCorp Certified Terraform Associate](https://acloudguru.com/course/hashicorp-certified-terraform-associate)
+
+
+
+
+#### Cloud
+
+- 
 
 #### Kubernetes
 
