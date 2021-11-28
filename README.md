@@ -82,6 +82,16 @@ This is not a comprehensive list but a curated list. A good starting point.
 -
 
 
+### MicroServicse
+
+- Building MicroServicse by Sam Newman
+- Monolith to MicroServices by Sam Newman
+- Enterprise Intergration Patterns
+- Domain-Driven Design
+- Domain-Driven Distilled
+- Data Pipeline Pocket Reference
+- The Enterprise Big Data Lake by AlexGorelik
+
 #### Architecture
 
 - [Software Archiecture Monday](https://www.youtube.com/watch?v=s0SurVWWYq8&list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar)
