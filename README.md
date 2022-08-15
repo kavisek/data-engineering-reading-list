@@ -116,3 +116,23 @@ This is not a comprehensive list but a curated list. A good starting point.
 
 - [BC Data Catalogue](https://catalogue.data.gov.bc.ca/dataset?q=property&download_audience=Public&sort=score+desc%2C+record_publish_date+desc)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#healthcare)
+
+
+#### Youtube Channels
+
+- [Free Code Camp](https://www.youtube.com/c/Freecodecamp)
+- [Advancing Analytics](https://www.youtube.com/c/AdvancingAnalytics)
+- [Amazon Web Services](https://www.youtube.com/c/amazonwebservices)
+- [Apache Airflow](https://www.youtube.com/c/ApacheAirflow)
+- [ByteByteGo](https://www.youtube.com/c/ByteByteGo)
+- [ComputerPhile](https://www.youtube.com/user/Computerphile)
+- [Goolge Cloud Tech](https://www.youtube.com/user/googlecloudplatform)
+- [IBM Technology](https://www.youtube.com/c/IBMTechnology)
+- [Interviewing.IO](https://www.youtube.com/c/interviewingio)
+- [MicroSoft Azure](https://www.youtube.com/c/MicrosoftAzure)
+- [PluralSight](https://www.youtube.com/c/pluralsight/videos)
+- [Snowflake](https://www.youtube.com/c/SnowflakeInc)
+- [Thoughtworks](https://www.youtube.com/c/thoughtworks)
+- [Hashicorp](https://www.youtube.com/c/HashiCorp/videos)
+- [CircleCI](https://www.youtube.com/c/CircleCI-Videos/featured)
+
