@@ -32,7 +32,8 @@ This is not a comprehensive list but a curated list. A good starting point.
 
 - [A Cloud Guru](https://acloudguru.com)
 - [O'Reily](https://www.oreilly.com)
-
+- [LeetCode](https://leetcode.com/)
+- [PluralSight](pluralsight.com)
 ### Books
 
 - [Linux Command Line Bible](https://www.amazon.ca/Linux-Command-Shell-Scripting-Bible/dp/111898384X/ref=sr_1_1?crid=217TQR8RN83ZU&dchild=1&keywords=linux+command+line+and+shell+scripting+bible&qid=1633310364&sprefix=Linux+command+line%2Caps%2C209&sr=8-1)
