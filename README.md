@@ -1,12 +1,14 @@
 # date-engineering-reading-list
 
-#### Why does this repo exist?
-
-"because people keep asking me for DE training resources."
-
 ### Overview
 
-A list of recommended books, courses, and online resources on data engineering and cloud development.
+Why does this repo exist?
+
+For the following reasons
+
+- people keep asking me for DE training resources.  
+- people ask me what online courses I do.  
+- people ask me what books I read.  
 
 In my opinion, paid resources are a better use of your time than free content. On average, I find the return on time to be higher with paid resources.
 
@@ -34,6 +36,32 @@ This is not a comprehensive list but a curated list. A good starting point.
 - [O'Reily](https://www.oreilly.com)
 - [LeetCode](https://leetcode.com/)
 - [PluralSight](pluralsight.com)
+
+### Online Courses
+
+- [Online Coures SpreadSheet](https://docs.google.com/spreadsheets/d/1ifp4zIKRlzbAZ-qJaBi0K4wOTMyr_c3lHRKhTluIz2I/edit?usp=sharing)
+
+
+### Tooling
+
+
+#### Basic
+
+- [Python](https://www.python.org/)
+- [Poetry](https://python-poetry.org/)
+- [JetBrains](https://www.jetbrains.com/) or [VS Code](https://code.visualstudio.com/)
+    - PyCharm
+- [Atom](https://atom.io/)
+- [Docker](https://www.docker.com/products/docker-desktop/)
+- [Evernote](https://evernote.com/)
+- [FIG](https://fig.io/)
+
+
+#### Advanced
+
+- [GCP](https://cloud.google.com/)
+- [CirlceCI](https://circleci.com/)
+- [Terraform](https://www.terraform.io/)
 ### Books
 
 - [Linux Command Line Bible](https://www.amazon.ca/Linux-Command-Shell-Scripting-Bible/dp/111898384X/ref=sr_1_1?crid=217TQR8RN83ZU&dchild=1&keywords=linux+command+line+and+shell+scripting+bible&qid=1633310364&sprefix=Linux+command+line%2Caps%2C209&sr=8-1)
@@ -47,43 +75,12 @@ This is not a comprehensive list but a curated list. A good starting point.
 - [Effective Python](https://www.amazon.ca/Effective-Python-Specific-Write-Better/dp/0134034287/ref=sr_1_2?dchild=1&keywords=effective+python&qid=1633310890&sr=8-2)
 ### Other Resources
 
-
-#### Airflow
-
-- [Airflow Youtube Channel](https://www.youtube.com/channel/UCSXwxpWZQ7XZ1WL3wqevChA)
-#### Spark
-
-- [Databricks Youtube Channel](https://www.youtube.com/c/Databricks)
-
-
-#### Docker
-
--
-- 
--
--
-
 #### Terraform
 
 - [Using Terraform to Manage Applications](https://acloudguru.com/course/using-terraform-to-manage-applications-and-infrastructure)
 - [HashiCorp Certified Terraform Associate](https://acloudguru.com/course/hashicorp-certified-terraform-associate)
 
-
-
-
-#### Cloud
-
-- 
-
-#### Kubernetes
-
--
--
--
--
-
-
-### MicroServicse
+### MicroServices
 
 - Building MicroServicse by Sam Newman
 - Monolith to MicroServices by Sam Newman
@@ -97,8 +94,6 @@ This is not a comprehensive list but a curated list. A good starting point.
 
 - [Software Archiecture Monday](https://www.youtube.com/watch?v=s0SurVWWYq8&list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar)
 - [Sam Newman's Blog](https://samnewman.io/index.html)
-
-
 
 #### Python
 
@@ -117,8 +112,7 @@ This is not a comprehensive list but a curated list. A good starting point.
 - [BC Data Catalogue](https://catalogue.data.gov.bc.ca/dataset?q=property&download_audience=Public&sort=score+desc%2C+record_publish_date+desc)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#healthcare)
 
-
-#### Youtube Channels
+## Youtube Channels
 
 - [Free Code Camp](https://www.youtube.com/c/Freecodecamp)
 - [Advancing Analytics](https://www.youtube.com/c/AdvancingAnalytics)
@@ -135,4 +129,4 @@ This is not a comprehensive list but a curated list. A good starting point.
 - [Thoughtworks](https://www.youtube.com/c/thoughtworks)
 - [Hashicorp](https://www.youtube.com/c/HashiCorp/videos)
 - [CircleCI](https://www.youtube.com/c/CircleCI-Videos/featured)
-
+- [Databricks Youtube Channel](https://www.youtube.com/c/Databricks)
