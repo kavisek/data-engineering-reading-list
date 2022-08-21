@@ -47,6 +47,7 @@ This is not a comprehensive list but a curated list. A good starting point.
 
 #### Basic
 
+- [Git & Github](https://github.com/)
 - [Python](https://www.python.org/)
 - [Poetry](https://python-poetry.org/)
 - [JetBrains](https://www.jetbrains.com/) or [VS Code](https://code.visualstudio.com/)
@@ -130,3 +131,10 @@ This is not a comprehensive list but a curated list. A good starting point.
 - [Hashicorp](https://www.youtube.com/c/HashiCorp/videos)
 - [CircleCI](https://www.youtube.com/c/CircleCI-Videos/featured)
 - [Databricks Youtube Channel](https://www.youtube.com/c/Databricks)
+
+
+### Frameworks
+
+- Axon Framework
+- Spring Cloud
+- FastAPI
